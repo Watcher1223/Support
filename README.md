@@ -1,5 +1,3 @@
-
-
 <!-- support.html-->
 <!-- This is NileLinks support website. -->
 <!DOCTYPE html>
