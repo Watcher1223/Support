@@ -19,11 +19,14 @@
       padding: 20px;
       background-color: #fff;
       border-radius: 10px;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     h1, h2 {
       color: dodgerblue;
       margin-bottom: 20px;
+    }
+    h2 {
+      margin-top: 40px;
     }
     p {
       line-height: 1.6;
@@ -68,6 +71,9 @@
       <li><strong>24/7 Hotline:</strong> +[Your Helpline Number].</li>
       <li><strong>Law Enforcement Collaboration:</strong> We cooperate with local and international authorities to investigate and take action on CSAE-related reports.</li>
     </ul>
+    <p>
+      All reported cases are reviewed by our Safety and Trust Team, who assess and escalate matters to law enforcement and child protection agencies as needed.
+    </p>
 
     <h2>4. Proactive Detection and Prevention</h2>
     <p>
@@ -124,9 +130,7 @@
       For any concerns or reports related to child safety, please contact us:
     </p>
     <ul>
-      <li><strong>Email:</strong> safety@moneylink.com</li>
-      <li><strong>Hotline:</strong> +[Your Helpline Number]</li>
-      <li><strong>Website:</strong> [Your Safety Page URL]</li>
+      <li><strong>Email:</strong> support@moneylink.live</li>
     </ul>
     <p>
       We are committed to creating a safe, secure, and responsible financial ecosystem for all users.
