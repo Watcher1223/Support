@@ -38,7 +38,7 @@
 </head>
 <body>
     <div class="container">
-        <h1> Unilink Safety standards</h1>
+        <h1>Unilink Safety Standards</h1>
         <p>
             Thank you for using Unilink.  **MoneyLink Child Sexual Abuse and Exploitation (CSAE) Policy**
 
@@ -60,8 +60,6 @@ We encourage all users to report any suspicious content or behavior related to C
 - **Email:** Reports can be sent to our dedicated team at **safety@moneylink.com**.
 - **24/7 Hotline:** +[Your Helpline Number].
 - **Law Enforcement Collaboration:** We cooperate with local and international authorities to investigate and take action on CSAE-related reports.
-
-All reported cases are reviewed by our Safety and Trust Team, who assess and escalate matters to law enforcement and child protection agencies as needed.
 
 ## **4. Proactive Detection and Prevention**
 To combat CSAE, MoneyLink employs advanced technology and human moderation:
@@ -91,17 +89,17 @@ MoneyLink actively promotes child safety through:
 - **User Guidelines:** Providing clear safety instructions to all users.
 - **Training Staff:** Our teams receive continuous training on CSAE identification and response.
 
-## **8. Contact Information**
+## **8. Camera Permission and Image Uploads**
+Our app requests camera permission solely to enable image uploads for posts. This permission is used only for capturing images that users wish to share as part of their content. We do not use the camera for any other purpose or background activity, and all images are handled in accordance with our privacy and data protection policies.
+
+## **9. Contact Information**
 For any concerns or reports related to child safety, please contact us:
 - **Email:** safety@moneylink.com
 - **Hotline:** +[Your Helpline Number]
 - **Website:** [Your Safety Page URL]
 
 We are committed to creating a safe, secure, and responsible financial ecosystem for all users.
-
-
-
         </p>
-     
+    </div>
 </body>
 </html>
